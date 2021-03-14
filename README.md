@@ -6,3 +6,4 @@
 # Step 3: start async terminal
 # Step 4: go to directory ~/Practice/client
 # Step 5: enter "npm start" in terminal
+# ps: server run on 5000 port, client on 3000.
